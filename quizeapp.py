@@ -9,6 +9,7 @@ if wish == "yes":
         print("correct")
         score+=1
     else:
+        
         print("incorrect")
     question2 = input("what is the fullform of cpu : ").lower()
     if question2 == "central processing unit" :
